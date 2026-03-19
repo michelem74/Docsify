@@ -1,3 +1,5 @@
+{Link: docsify-wikilink https://github.com/zpengg/docsify-wikilink}
+
 # Prova con diagramma
 ## Mermaid
 
