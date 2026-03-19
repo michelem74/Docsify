@@ -10,8 +10,8 @@
 ```
 <mark>amici</mark>
 
-[Simplebookmark](/%2F/nota2.md)
+[Simplebookmark](Simplebookmarks.md)
 
 Offerte
 
-[nota2](/%2F/nota2.md)
+[nota2](nota2.md)
