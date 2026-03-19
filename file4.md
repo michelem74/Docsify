@@ -10,8 +10,8 @@
 ```
 <mark>amici</mark>
 
-[Simplebookmark](Simplebookmarks.md)
+[[Simplebookmarks]]
 
 Offerte
 
-[nota2](nota2.md)
+[[Nota]]
