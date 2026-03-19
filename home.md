@@ -10,3 +10,17 @@ We know how important it is to have your documents look just as great on paper a
 The latest product updates have dropped: PDF exports and one-time password (OTP)! 📄
 
 Developers are always on the lookout for ways to enhance their workflows, refine their skills, and collaborate more effectively with their teams. So today, we’re introducing our latest updates designed to make your HackMD experience smoother than ever.
+
+<div class="accordion">
+  <details>
+    <summary>Topic One</summary>
+
+    Topic one details here.
+  </details>
+
+  <details>
+    <summary>Topic Two</summary>
+
+    Topic two details here.
+  </details>
+</div>
