@@ -92,4 +92,10 @@ By the way, one handy feature of Obsidian is [Obsidian Sync](https://obsidian.md
   </p>
 </blockquote>
 
-[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ":class=button-rounded")
+<div class="card">
+
+  ## [Card Title](#)
+  ![Card Image](images/example.jpg)
+  Card content goes here.
+
+</div>
