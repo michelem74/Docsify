@@ -101,29 +101,4 @@ By the way, one handy feature of Obsidian is [Obsidian Sync](https://obsidian.md
   </div>
 </div>
 
-<style>
-  :root {
-    /* Typography */
-    --font-family: system-ui,sans-serif;
-    --line-height: 1.4;
-    --font-size: 20px;
-    --font-weight: 400;
-
-    /* Content */
-    --content-max-width: 800px;
-
-    /* Headings */
-    --heading-color: #0891b2;
-    --heading-font-weight: 700;
-
-    /* Theme */
-    --theme-color: #9333ea !important;
-
-    /* Links */
-    --link-color: var(--theme-color);
-    --link-color-hover: var(--theme-color);
-    --link-underline-thickness: auto;
-    --link-underline-thickness-hover: var(--link-underline-thickness);
-    --sidebar-font-size: 18px;
-  }
-</style>
+[Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ":class=button-rounded")
