@@ -92,4 +92,11 @@ By the way, one handy feature of Obsidian is [Obsidian Sync](https://obsidian.md
   </p>
 </blockquote>
 
-[GitHub](https://github.com/hibbitts-design/docsify-this ":class=navpill")
+<div class="row">
+  <div class="column">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  </div>
+  <div class="column">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  </div>
+</div>
