@@ -92,10 +92,4 @@ By the way, one handy feature of Obsidian is [Obsidian Sync](https://obsidian.md
   </p>
 </blockquote>
 
-<div class="card">
-
-  ## [Card Title](#)
-  ![Card Image](images/example.jpg)
-  Card content goes here.
-
-</div>
+[GitHub](https://github.com/hibbitts-design/docsify-this ":class=navpill")
