@@ -92,3 +92,4 @@ By the way, one handy feature of Obsidian is [Obsidian Sync](https://obsidian.md
   </p>
 </blockquote>
 
+[GitHub](https://github.com/hibbitts-design/docsify-this ":class=navpill")
